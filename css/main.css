@@ -1,31 +1,31 @@
 /*-----------------------------------------------------------------
 [Legal Notice]
 
-Copyright (c) HighHay/Mivfx
-Before using this template, you should agree with themeforest licenses terms.
-http://themeforest.net/licenses
+COPYRIGHT by itnowpb/xfade
+Before using this theme, you should accept Infinity Prime Solutions licenses terms.
+https://itnowpb.com
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [Table of contents]
 /** CSS Reference
     0. Base Style
-	1. 1. Header, and page menu 
+	1. 1. Header, and page menu
 		1.1 Header (logo)/ .header-top
 		1.2 Menu / .menu-links, .menu-icon
 		1.3 Dot/bar Navigation at right / #fp-nav.right (hooking fullpage.js plugin)
-	2. Background cover image / .page-cover 
+	2. Background cover image / .page-cover
 	3. Main content / .main
-		3.1 Fullscreen sections overall style / .section 
-		3.2 Home page section (including the clock) / .section-home 
+		3.1 Fullscreen sections overall style / .section
+		3.2 Home page section (including the clock) / .section-home
 		3.3 Projects/Products/Gallery / .section-projects
 		3.4 Contact page section and forms /  .section-contact
 	4. Footer / .site-footer
 	5. Responsiveness
-	
-	Hooks to altering this css file can be found in "style-colorX.css" file 
+
+	Hooks to altering this css file can be found in "style-colorX.css" file
 
 **/
-/*---------- 
+/*----------
 [Colors]
     text color : #FFFFFF, #FFF
 	orange : #FEA91F
@@ -136,7 +136,7 @@ iframe {
 .center-vh {
   /*
       height: 100%;
-      width: 100%; 
+      width: 100%;
   */
   /* width needed for Firefox */
   /* old flexbox - Webkit and Firefox. For backwards compatibility */

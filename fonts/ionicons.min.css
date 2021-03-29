@@ -1,8 +1,8 @@
 @charset "UTF-8";/*!
   Ionicons, v2.0.0
-  Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
-  https://twitter.com/benjsperry  https://twitter.com/ionicframework
-  MIT License: https://github.com/driftyco/ionicons
+  COPYRIGHT by itnowpb/xfade
+  Before using this theme, you should accept Infinity Prime Solutions licenses terms.
+  https://itnowpb.com
 
   Android-style icons originally built by Google’s
   Material Design Icons: https://github.com/google/material-design-icons
@@ -22,4 +22,3 @@
   100% { -ms-transform: rotate(359deg); } }
 @keyframes spin { 0% { transform: rotate(0deg); }
   100% { transform: rotate(359deg); } }
-  
